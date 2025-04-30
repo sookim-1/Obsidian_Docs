@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"b1f726349fed6c96","x":-100,"y":60,"width":250,"height":50,"type":"text","text":"Control"},
+		{"id":"e4491ddac54b9158","type":"text","text":"View","x":-100,"y":-25,"width":250,"height":50},
+		{"id":"99286ad5eebe1a1a","x":-100,"y":140,"width":250,"height":50,"type":"text","text":"Layout"}
+	],
+	"edges":[]
+}
