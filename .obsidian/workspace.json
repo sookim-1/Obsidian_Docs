@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "13f301b1d29d9a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4c8022ccc77f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5714029da097a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "cb2ab46cb7401bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시/25.03.24 ~ 03.30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.03.24 ~ 03.30"
+            }
+          },
+          {
+            "id": "e9caf6629a8bb9ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시/25.03.31 ~ 04.06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.03.31 ~ 04.06"
+            }
+          },
+          {
+            "id": "372e07bb8f487eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시/25.04.07 ~ 04.13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.04.07 ~ 04.13"
+            }
+          },
+          {
+            "id": "7b9c19db362f1caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시/25.04.14 ~ 04.20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.04.14 ~ 04.20"
+            }
+          },
+          {
+            "id": "34f2a44a10cdfc6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시/25.04.21 ~ 04.27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.04.21 ~ 04.27"
+            }
+          },
+          {
+            "id": "84af59cfa9df5b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시/25.04.28 ~ 05.04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.04.28 ~ 05.04"
+            }
+          },
+          {
+            "id": "ac8b6f24d91442c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시/25.05.05 ~ 05.11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.05.05 ~ 05.11"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81dce73cf227a26a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad9848b52d937490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1387109fa79e1abe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "58d2bf7a92710f0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "f5db10c0a743b5f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45105e9f10970ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "8339a90b99f77d84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9269a345a1a3f291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "임시/25.04.14 ~ 04.20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "25.04.14 ~ 04.20 의 백링크"
+            }
+          },
+          {
+            "id": "3f959cf61c0877c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 의 나가는 링크"
+            }
+          },
+          {
+            "id": "d711a9fc4923a614",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "97e77ae411a492ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 의 개요"
+            }
+          },
+          {
+            "id": "3349196b8a23dfbb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ac8b6f24d91442c9",
+  "lastOpenFiles": [
+    "임시/25.03.24 ~ 03.30.md",
+    "임시/25.03.31 ~ 04.06.md",
+    "임시/25.04.07 ~ 04.13.md",
+    "임시/25.04.14 ~ 04.20.md",
+    "임시/25.04.28 ~ 05.04.md",
+    "임시/25.05.05 ~ 05.11.md",
+    "임시/25.04.21 ~ 04.27.md",
+    "무제",
+    "README.md",
+    "SwiftUI/Resource/MultipleWindowCapture.png",
+    "임시",
+    "SwiftUI/WindowGroup_구조체.md",
+    "SwiftUI/View_프로토콜_수정자목록.md",
+    "SwiftUI/Text_뷰.md",
+    "SwiftUI/SwiftUI_소개.md",
+    "SwiftUI/ScenePhase_enum.md",
+    "SwiftUI/Scene_프로토콜.md",
+    "SwiftUI/무제.canvas",
+    "SwiftUI/Resource/Storyboard_InfoPlist.png",
+    "SwiftUI/SwiftUI 프로젝트로 변경하는 방법.md",
+    "SwiftUI/ccc",
+    "SwiftUI/App_프로토콜.md"
+  ]
+}

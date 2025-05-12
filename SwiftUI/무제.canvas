@@ -1,8 +1,19 @@
 {
 	"nodes":[
-		{"id":"b1f726349fed6c96","x":-100,"y":60,"width":250,"height":50,"type":"text","text":"Control"},
-		{"id":"e4491ddac54b9158","type":"text","text":"View","x":-100,"y":-25,"width":250,"height":50},
-		{"id":"99286ad5eebe1a1a","x":-100,"y":140,"width":250,"height":50,"type":"text","text":"Layout"}
+		{"id":"e346b467d5fea162","type":"file","file":"SwiftUI/Scene_프로토콜.md","x":360,"y":80,"width":400,"height":400},
+		{"id":"e6ff1ca757fa62d7","type":"file","file":"SwiftUI/App_프로토콜.md","x":-120,"y":80,"width":380,"height":400},
+		{"id":"87248f3dcce74e92","type":"file","file":"SwiftUI/ScenePhase_enum.md","x":960,"y":440,"width":400,"height":400},
+		{"id":"f4550d7588086204","type":"file","file":"SwiftUI/WindowGroup_구조체.md","x":960,"y":-120,"width":400,"height":400},
+		{"id":"a7ef517e01c3e6df","type":"file","file":"SwiftUI/View_프로토콜.md","x":360,"y":980,"width":400,"height":400},
+		{"id":"947a05d90a39363f","type":"file","file":"SwiftUI/View_프로토콜_수정자목록.md","x":360,"y":1560,"width":400,"height":400},
+		{"id":"84a3d37caeaa4368","type":"file","file":"SwiftUI/SwiftUI_소개.md","x":-620,"y":80,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"241d20e6c5d44813","fromNode":"e346b467d5fea162","fromSide":"left","toNode":"e6ff1ca757fa62d7","toSide":"right"},
+		{"id":"1c884c2b54b80df4","fromNode":"87248f3dcce74e92","fromSide":"left","toNode":"e346b467d5fea162","toSide":"right"},
+		{"id":"5485c6e3b73c6491","fromNode":"f4550d7588086204","fromSide":"left","toNode":"e346b467d5fea162","toSide":"right"},
+		{"id":"9c33a8b733c064b5","fromNode":"a7ef517e01c3e6df","fromSide":"top","toNode":"e346b467d5fea162","toSide":"bottom"},
+		{"id":"0e076afd95eed09f","fromNode":"947a05d90a39363f","fromSide":"top","toNode":"a7ef517e01c3e6df","toSide":"bottom"},
+		{"id":"8b9236bbc43220be","fromNode":"e6ff1ca757fa62d7","fromSide":"left","toNode":"84a3d37caeaa4368","toSide":"right"}
+	]
 }
